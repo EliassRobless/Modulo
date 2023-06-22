@@ -1,4 +1,25 @@
-## Instrucciones de ejecución del programa de modularización en C
+#Modularizacion
+
+El siguiente programa esta hecho en lenguaje C. Tiene por objetivo dar el modulo de dos numeros enteros ingresados por el usuario.
+
+Teniendo en cuenta que dados dos números positivos, a (el dividendo) y n (el divisor), módulo n (abreviado como mod n)​ es el resto de la división euclídea de a entre n.
+
+Algunos ejemplos de valores de entrada y salida esperados son: 
+
+1.- Entrada: Número entero: 10, Divisor: 3
+
+   Salida: El residuo de la división es: 1
+
+
+2.-  Entrada: Número entero: 20, Divisor: 7
+
+   Salida: El residuo de la división es: 6
+  
+3.- Entrada: Número entero: 15, Divisor: 4
+
+  Salida: El residuo de la división es: 3
+
+*Instrucciones de ejecución del programa de modularización en C*
 
 1. Abre un entorno de desarrollo integrado (IDE) o un editor de texto donde puedas escribir código en C, como Code::Blocks, Dev-C++, Visual Studio Code, o cualquier otro de tu elección.
 
