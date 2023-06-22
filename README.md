@@ -1,4 +1,4 @@
-#Modularizacion
+##Modularizacion
 
 El siguiente programa esta hecho en lenguaje C. Tiene por objetivo dar el modulo de dos numeros enteros ingresados por el usuario.
 
